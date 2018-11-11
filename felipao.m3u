@@ -1,0 +1,13 @@
+
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo-1.png" pltv-name="FELIPAO FULL HD" pltv-description="XXX DESCRIÇÃO DA LISTA XXX" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+
+################## XXXX SPORTS XXXX ########################
+
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN Extra FHD" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN Extra FHD
+http://sspitv.liss.fun:8880/live/638qx572uv/fn29xawme8/7136.ts
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sports FHD" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sports FHD
+http://sspitv.liss.fun:8880/live/638qx572uv/fn29xawme8/7171.ts
+
+
